@@ -1,4 +1,4 @@
 # telefone
 
-Necessário fazer conta na TOTALVOICE
-Depois gerar o token e atribuir a variável de ambiente.
+Necessário fazer conta na TOTALVOICE, e
+depois gerar o token e atribuir a variável de ambiente.
